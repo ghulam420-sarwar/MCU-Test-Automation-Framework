@@ -2,7 +2,7 @@
 
 A Python-based automated test framework for validating MCU firmware over serial. Inspired by real test work at Rouelite Techno — reduces manual test effort by running a repeatable regression suite against any ESP32 or AVR device with a compatible command-response firmware.
 
-![Architecture](images/architecture.png)
+![Architecture](https://github.com/ghulam420-sarwar/MCU-Test-Automation-Framework/blob/main/architecture.png)
 
 ## Highlights
 
